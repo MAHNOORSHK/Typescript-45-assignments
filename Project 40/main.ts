@@ -10,6 +10,6 @@ function make_album(artist,  album, tracks?) {
     }
     return albumObj;
   }
-  console.log(make_album('Taylor Swift', 'Fearless'));
-  console.log(make_album('Ed Sheeran', 'Divide', 12));
-  console.log(make_album('Adele', '25', 10));
+  console.log(make_album('Rahat', 'Sara'));
+  console.log(make_album('Atif', 'Divide', 12));
+  console.log(make_album('ali', '10', 10));
